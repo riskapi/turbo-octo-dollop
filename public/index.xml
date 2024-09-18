@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cameron Michelis</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Cameron Michelis</description>
+    <image>
+      <title>Cameron Michelis</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.1</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Sep 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+&lt;p&gt;As a cybersecurity risk professional, I have a deep interest in understanding and managing the evolving threats and vulnerabilities in today&amp;rsquo;s digital landscape. Over the years, I’ve focused on identifying and addressing security risks, leveraging my background in &lt;strong&gt;mathematics&lt;/strong&gt;, &lt;strong&gt;automation&lt;/strong&gt;, &lt;strong&gt;artificial intelligence&lt;/strong&gt;, and &lt;strong&gt;data science&lt;/strong&gt; to help protect critical systems and information.&lt;/p&gt;
+&lt;p&gt;I’m particularly fascinated by how technology can be used to enhance security practices. From automating processes to harnessing the power of AI for threat detection, I enjoy finding innovative ways to improve cybersecurity measures and stay ahead of emerging risks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h1&gt;
+&lt;p&gt;Feel free to reach out to me for personal communication via any of the channels below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:contact@cameronmichelis.com&#34;&gt;contact@cameronmichelis.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone&lt;/strong&gt;: +415-993-3431&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Signal&lt;/strong&gt;: @cameron.01&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For matters concerning organizations or agencies I am affiliated with, please use their appropriate official channels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>API Documentation</title>
+      <link>http://localhost:1313/api/</link>
+      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/api/</guid>
+      <description>&lt;p&gt;Welcome to the API documentation for services hosted at &lt;code&gt;api.cameronmichelis.com&lt;/code&gt;. Below are the available API endpoints, their functionality, and the authentication requirements.  If you’re interested in accessing a protected APIs, feel free to &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;contact me&lt;/a&gt; to request an API key.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;public-endpoints-no-authentication-required&#34;&gt;Public Endpoints (No Authentication Required)&lt;/h2&gt;
+&lt;h3 id=&#34;1-get-v1echo&#34;&gt;1. &lt;strong&gt;GET /v1/echo&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://api.cameronmichelis.com/v1/echo&#34;&gt;https://api.cameronmichelis.com/v1/echo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: The Echo service risk scores the request details sent by the client, including the HTTP method, headers, query parameters, and body (if present). This is useful for testing and debugging API requests.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
