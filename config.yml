@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Cameron Michelis
-    subtitle: "Cyber Risk Automation"
+    subtitle: "Cyber, Risk, Automation"
     imageUrl: "images/avatar.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -70,13 +70,13 @@ params:
     Content: Personal contact and resources 
 
   socialIcons:
+    - name: email
+      url: "mailto:contact@cameronmichelis.com"
     - name: linkedin
       url: "https://www.linkedin.com/in/cameronmichelis/"
     - name: github
       url: "https://github.com/cameronfi"
     - name: mastodon
-      url: "https://mastodon.social/@cameronfi"
-    - name: emao;
       url: "https://mastodon.social/@cameronfi"
 
   analytics:
