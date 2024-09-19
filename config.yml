@@ -75,7 +75,7 @@ params:
     - name: github
       url: "https://github.com/cameronfi"
     - name: mastodon
-      url: "https://mastodon.social/@michelis"
+      url: "https://mastodon.social/@cameronfi"
 
   analytics:
     google:
