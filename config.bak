@@ -1,5 +1,5 @@
 baseURL: "https://www.cameronmichelis.com"
-title: Cameron Michelis | 
+title: Cameron Michelis
 paginate: 5
 theme: PaperMod
 
@@ -15,14 +15,15 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Cameron Michelis 
-  description: "Public home page for Cameron Michelis"
-  keywords: [Cameron Michelis, CyberSecurity,Contact]
+  description: "Personal home page for Cameron Michelis"
+  keywords: [Cameron Michelis, CyberSecurity,Contaact]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -57,12 +58,16 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Cameron Michelis
-    subtitle: "Cybersecurity Risk, Incident Response"
+    subtitle: "Personal contact and cyber risk resources"
     imageUrl: "images/avatar.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
+#      - name: Posts
+#        url: posts
+#      - name: Tags
+#        url: tags
 
   # home-info mode
   homeInfoParams:
@@ -73,13 +78,11 @@ params:
     - name: x
       url: "https://x.com/ca65284"
     - name: github
-      url: "https://github.com/cameronfi"
-    - name: mastodon
-      url: "https://mastodon.social/@michelis"
+      url: "https://github.com/cameronapi"
 
   analytics:
     google:
-      SiteVerificationTag: "GTM-PBMF2L28"
+      SiteVerificationTag: "XYZabc"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
@@ -108,17 +111,30 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: apidoces
+      name: API Docs
+      url: /api
       weight: 10
     - identifier: 
-      name: API
-      url: /apidocs/
+      name: About
+      url: /about
       weight: 20
     - identifier: 
       name: Contact
-      url: /contact/
+      url: /contact
+      weight: 30
+
+#    - identifier: categories
+#      name: categories
+#      url: /categories/
+#      weight: 10
+#    - identifier: tags
+#      name: tags
+#      url: /tags/
+#      weight: 20
+    - identifier: status
+      name: Service Status
+      url: https://api.cameronmichelis.com/v1/status
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

@@ -2,7 +2,7 @@
 title: "API Documentation"
 date: 2024-09-17T12:00:00Z
 draft: false
-slug: "api"
+slug: "apidocs"
 ---
 
 

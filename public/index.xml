@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Cameron Michelis</title>
+    <title>Cameron Michelis |</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Cameron Michelis</description>
+    <description>Recent content on Cameron Michelis |</description>
     <image>
-      <title>Cameron Michelis</title>
+      <title>Cameron Michelis |</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -38,9 +38,9 @@
     </item>
     <item>
       <title>API Documentation</title>
-      <link>http://localhost:1313/api/</link>
+      <link>http://localhost:1313/apidocs/</link>
       <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/api/</guid>
+      <guid>http://localhost:1313/apidocs/</guid>
       <description>&lt;p&gt;Welcome to the API documentation for services hosted at &lt;code&gt;api.cameronmichelis.com&lt;/code&gt;. Below are the available API endpoints, their functionality, and the authentication requirements.  If you’re interested in accessing a protected APIs, feel free to &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;contact me&lt;/a&gt; to request an API key.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;public-endpoints-no-authentication-required&#34;&gt;Public Endpoints (No Authentication Required)&lt;/h2&gt;
