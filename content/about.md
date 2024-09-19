@@ -5,7 +5,7 @@ draft: false
 slug: "about"
 ---
 
-## About Me
+## Cameron Michelis
 
 As a cybersecurity risk professional, I have a deep interest in understanding and managing the evolving threats and vulnerabilities in today's digital landscape. Over the years, I’ve focused on identifying and addressing security risks, leveraging my background in **mathematics**, **automation**, **artificial intelligence**, and **data science** to help protect critical systems and information.
 

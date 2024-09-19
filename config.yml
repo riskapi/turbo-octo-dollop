@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Cameron Michelis
-    subtitle: "Cybersecurity Risk, Incident Response"
+    subtitle: "Cybersecurity, Risk Quantification, Incident Response"
     imageUrl: "images/avatar.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -70,8 +70,8 @@ params:
     Content: Personal contact and resources 
 
   socialIcons:
-    - name: x
-      url: "https://x.com/ca65284"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/cameronmichelis/"
     - name: github
       url: "https://github.com/cameronfi"
     - name: mastodon
