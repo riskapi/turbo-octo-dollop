@@ -60,10 +60,10 @@ params:
     enabled: true # needs to be explicitly set
     title: Cameron Michelis
     subtitle: "Cyber, Risk, Automation"
-    imageUrl: "images/cameron.jpg"
+    imageUrl: "images/avatar.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: Cameron
+    imageTitle: my image
     buttons:
 
   # home-info mode
