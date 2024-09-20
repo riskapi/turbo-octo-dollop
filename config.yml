@@ -82,10 +82,10 @@ params:
   analytics:
     google:
       SiteVerificationTag: "GTM-PBMF2L28"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+#    bing:
+#      SiteVerificationTag: "XYZabc"
+#    yandex:
+#      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -119,9 +119,9 @@ menu:
       url: /apidocs/
       weight: 20
     - identifier: 
-      name: Contact
-      url: /contact/
-      weight: 30
+#      name: Contact
+#      url: /contact/
+#      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
