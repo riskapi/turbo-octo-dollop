@@ -1,5 +1,5 @@
 baseURL: "https://www.cameronmichelis.com"
-title: Cameron Michelis | 
+title: Cameron Michelis 
 paginate: 5
 theme: PaperMod
 
@@ -14,7 +14,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Cameron Michelis 
+  title: Cameron Michelis
   description: "Public home page for Cameron Michelis"
   keywords: [Cameron Michelis, CyberSecurity,Contact]
   author: Me
@@ -60,10 +60,10 @@ params:
     enabled: true # needs to be explicitly set
     title: Cameron Michelis
     subtitle: "Cyber, Risk, Automation"
-    imageUrl: "images/avatar.jpg"
+    imageUrl: "images/cameron.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: Cameron
     buttons:
 
   # home-info mode
