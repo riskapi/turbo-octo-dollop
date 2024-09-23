@@ -70,6 +70,7 @@ params:
       - name: API
         url: "/apidocs/"
 
+
   # home-info mode
   homeInfoParams:
     Title: "Cameron Michelis"
@@ -87,7 +88,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "GTM-PBMF2L28"
+#      SiteVerificationTag: "GTM-PBMF2L28"
 #    bing:
 #      SiteVerificationTag: "XYZabc"
 #    yandex:
