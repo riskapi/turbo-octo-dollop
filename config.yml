@@ -42,7 +42,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-  hideFooter: false
+  hideFooter: true
   
   sectionPagesMenu: main
 
