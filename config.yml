@@ -12,6 +12,10 @@ minify:
   disableXML: true
   minifyOutput: true
 
+services:
+  googleAnalytics:
+    ID: GTM-PBMF2L28
+	
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Cameron Michelis
@@ -87,7 +91,7 @@ params:
       url: "https://mastodon.social/@cameronfi"
 
   analytics:
-    google:
+#    google:
 #      SiteVerificationTag: "GTM-PBMF2L28"
 #    bing:
 #      SiteVerificationTag: "XYZabc"
@@ -142,3 +146,6 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+    
+    
+    
