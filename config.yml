@@ -71,7 +71,7 @@ params:
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: API
+      - name: api
         url: "/apidocs/"
 
 
@@ -124,16 +124,16 @@ params:
 
 menu:
   main:
-    - identifier: about
-      name: about
+    - identifier: About
+      name: About
       url: /about/
       weight: 10
 #    - identifier: 
 #      name: API
 #      url: /apidocs/
 #      weight: 20
-    - identifier: 
-      name: contact
+    - identifier: Contact 
+      name: Contact
       url: /contact/
       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
