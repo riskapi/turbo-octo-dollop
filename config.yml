@@ -12,9 +12,9 @@ minify:
   disableXML: true
   minifyOutput: true
 
-services:
-  googleAnalytics:
-    ID: GTM-PBMF2L28
+#services:
+#  googleAnalytics:
+#    ID: GTM-PBMF2L28
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -58,8 +58,8 @@ params:
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+#    icon: /apple-touch-icon.png
+#    iconHeight: 35
 
   # profile-mode
   profileMode:
@@ -90,9 +90,9 @@ params:
     - name: mastodon
       url: "https://mastodon.social/@cameronfi"
 
-  analytics:
-    google:
-      SiteVerificationTag: "GTM-PBMF2L28"
+#  analytics:
+#    google:
+#      SiteVerificationTag: "GTM-PBMF2L28"
 #    bing:
 #      SiteVerificationTag: "XYZabc"
 #    yandex:
