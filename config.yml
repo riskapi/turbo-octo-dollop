@@ -15,11 +15,11 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Cameron Michelis
-  description: "Public home page for Cameron Michelis"
+  description: "Public landing page"
   keywords: [Cameron Michelis, CyberSecurity,Contact]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+#  images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -38,17 +38,19 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-  hideFooter: true
+  hideFooter: false
   
+  sectionPagesMenu: main
+
 
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+#    favicon: "<link / abs url>"
+#    favicon16x16: "<link / abs url>"
+#    favicon32x32: "<link / abs url>"
+#    apple_touch_icon: "<link / abs url>"
+#    safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Home"
@@ -59,17 +61,19 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Cameron Michelis
-    subtitle: "Cyber, Risk, Automation"
+    subtitle: "Cyber | Risk | Response"
     imageUrl: "images/avatar.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
+      - name: API
+        url: "/apidocs/"
 
   # home-info mode
   homeInfoParams:
     Title: "Cameron Michelis"
-    Content: Personal contact and resources 
+    Content: Landing page, tools, API
 
   socialIcons:
     - name: email
@@ -95,9 +99,9 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+#    URL: "https://github.com/<path_to_repo>/content"
+#    Text: "Suggest Changes" # edit text
+#    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -110,6 +114,9 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
+
+
+
 menu:
   main:
     - identifier: about
@@ -121,9 +128,9 @@ menu:
       url: /apidocs/
       weight: 20
     - identifier: 
-#      name: Contact
-#      url: /contact/
-#      weight: 30
+      name: Contact
+      url: /contact/
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
