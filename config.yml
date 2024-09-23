@@ -125,7 +125,7 @@ params:
 menu:
   main:
     - identifier: about
-      name: About
+      name: about
       url: /about/
       weight: 10
 #    - identifier: 
@@ -133,7 +133,7 @@ menu:
 #      url: /apidocs/
 #      weight: 20
     - identifier: 
-      name: Contact
+      name: contact
       url: /contact/
       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
