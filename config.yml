@@ -65,7 +65,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Cameron Michelis
-    subtitle: "Cyber | Risk | Response"
+    subtitle: "Cyber | Risk | Analytics"
     imageUrl: "images/avatar.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -86,7 +86,7 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/cameronmichelis/"
     - name: github
-      url: "https://github.com/cameronfi"
+      url: "https://github.com/cameronmichelis"
     - name: mastodon
       url: "https://mastodon.social/@cameronfi"
 

@@ -13,9 +13,9 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;cameron-michelis&#34;&gt;Cameron Michelis&lt;/h2&gt;
-&lt;p&gt;As a cybersecurity risk professional, I have a deep interest in understanding and managing the evolving threats and vulnerabilities in today&amp;rsquo;s digital landscape. Over the years, I’ve focused on identifying and addressing security risks, leveraging my background in &lt;strong&gt;mathematics&lt;/strong&gt;, &lt;strong&gt;automation&lt;/strong&gt;, &lt;strong&gt;artificial intelligence&lt;/strong&gt;, and &lt;strong&gt;data science&lt;/strong&gt; to help protect critical systems and information.&lt;/p&gt;
-&lt;p&gt;I’m particularly fascinated by how technology can be used to enhance security practices. From automating processes to harnessing the power of AI for threat detection, I enjoy finding innovative ways to improve cybersecurity measures and stay ahead of emerging risks.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;about-this-website-and-its-related-endpoints&#34;&gt;About this Website and it&amp;rsquo;s related endpoints&lt;/h2&gt;
+&lt;p&gt;This website serves as a way for people I’ve met or otherwise connected with over the years to easily find me. It is my personal website and is not affiliated with any other organizations I may be involved with.&lt;/p&gt;
+&lt;p&gt;Over the years, I have developed personal tools, APIs, and conducted independent research. These resources are shared on a &lt;strong&gt;non-commercial basis&lt;/strong&gt;, without any guarantees of service or support, and are provided as-is. If you’re interested in accessing one of my APIs, feel free to &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;contact me&lt;/a&gt; to request an API key.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
