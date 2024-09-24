@@ -6,29 +6,23 @@
     <description>Recent content on Cameron Michelis</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Sep 2024 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 13:22:48 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Disclaimer</title>
+      <link>http://localhost:1313/disclaimer/</link>
+      <pubDate>Tue, 24 Sep 2024 13:22:48 -0400</pubDate>
+      <guid>http://localhost:1313/disclaimer/</guid>
+      <description>&lt;h3 id=&#34;general&#34;&gt;General&lt;/h3&gt;
+&lt;p&gt;This website is a non-commercial public landing page and serves as a way for people I’ve met or otherwise connected with over the years to easily find me. It is not affiliated with any organizations, companies, or institutions I may be involved with. The information provided on this website is for general informational purposes only and is provided &amp;ldquo;as-is&amp;rdquo; without any representations or warranties, express or implied. While I strive to provide accurate and up-to-date information, I make no guarantees regarding the accuracy, completeness, or reliability of the content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Cameron</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;about-cameron-michelis&#34;&gt;About Cameron Michelis&lt;/h2&gt;
-&lt;p&gt;As a cybersecurity risk professional, I am deeply invested in understanding and mitigating the ever-evolving threats and vulnerabilities in today’s digital world. With a strong foundation in mathematics, automation, artificial intelligence, and data science, I’ve spent years identifying security risks and developing strategies to protect critical systems and sensitive information.&lt;/p&gt;
+      <description>&lt;p&gt;As a cybersecurity risk professional, I am deeply invested in understanding and mitigating the ever-evolving threats and vulnerabilities in today’s digital world. With a strong foundation in mathematics, automation, artificial intelligence, and data science, I’ve spent years identifying security risks and developing strategies to protect critical systems and sensitive information.&lt;/p&gt;
 &lt;p&gt;My passion lies in leveraging cutting-edge technology to enhance security practices. From automating complex processes to using AI for advanced threat detection, I’m driven by the challenge of staying ahead of emerging risks and finding innovative ways to bolster cybersecurity defenses.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h1&gt;
-&lt;p&gt;Feel free to reach out to me for personal communication via any of the channels below.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:contact@cameronmichelis.com&#34;&gt;contact@cameronmichelis.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Phone&lt;/strong&gt;: +415-993-3431&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For matters concerning organizations or agencies I am affiliated with, please use their official channels.&lt;/p&gt;</description>
     </item>
     <item>
       <title>API Documentation</title>
@@ -41,6 +35,18 @@
 &lt;h3 id=&#34;1-get-v1echo&#34;&gt;1. &lt;strong&gt;GET /v1/echo&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://api.cameronmichelis.com/v1/echo&#34;&gt;https://api.cameronmichelis.com/v1/echo&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: The Echo service risk scores the request details sent by the client, including the HTTP method, headers, query parameters, and body (if present). This is useful for testing and debugging API requests.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Feel free to reach out to me for personal communication via any of the channels below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:contact@cameronmichelis.com&#34;&gt;contact@cameronmichelis.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone&lt;/strong&gt;: +415-993-3431&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For matters concerning organizations or agencies I am affiliated with, please use their official channels.s&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -12,10 +12,6 @@ minify:
   disableXML: true
   minifyOutput: true
 
-#services:
-#  googleAnalytics:
-#    ID: GTM-PBMF2L28
-
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Cameron Michelis
@@ -42,8 +38,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-  hideFooter: true
-  
+  hideFooter: false
   sectionPagesMenu: main
 
 
@@ -87,16 +82,6 @@ params:
       url: "https://www.linkedin.com/in/cameronmichelis"
     - name: github
       url: "https://github.com/cameronmichelis"
-#    - name: mastodon
-#      url: "https://mastodon.social/@cameronfi"
-
-#  analytics:
-#    google:
-#      SiteVerificationTag: "GTM-PBMF2L28"
-#    bing:
-#      SiteVerificationTag: "XYZabc"
-#    yandex:
-#      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -121,21 +106,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 
 
-
 menu:
   main:
     - identifier: About
       name: About
       url: /about/
       weight: 10
-#    - identifier: 
-#      name: API
-#      url: /apidocs/
-#      weight: 20
     - identifier: Contact 
       name: Contact
       url: /contact/
       weight: 20
+      
+      
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
