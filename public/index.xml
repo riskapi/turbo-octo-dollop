@@ -13,9 +13,9 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;about-this-website-and-its-related-endpoints&#34;&gt;About this Website and it&amp;rsquo;s related endpoints&lt;/h2&gt;
-&lt;p&gt;This website serves as a way for people I’ve met or otherwise connected with over the years to easily find me. It is my personal website and is not affiliated with any other organizations I may be involved with.&lt;/p&gt;
-&lt;p&gt;Over the years, I have developed personal tools, APIs, and conducted independent research. These resources are shared on a &lt;strong&gt;non-commercial basis&lt;/strong&gt;, without any guarantees of service or support, and are provided as-is. If you’re interested in accessing one of my APIs, feel free to &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;contact me&lt;/a&gt; to request an API key.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;about-cameron-michelis&#34;&gt;About Cameron Michelis&lt;/h2&gt;
+&lt;p&gt;As a cybersecurity risk professional, I am deeply invested in understanding and mitigating the ever-evolving threats and vulnerabilities in today’s digital world. With a strong foundation in mathematics, automation, artificial intelligence, and data science, I’ve spent years identifying security risks and developing strategies to protect critical systems and sensitive information.&lt;/p&gt;
+&lt;p&gt;My passion lies in leveraging cutting-edge technology to enhance security practices. From automating complex processes to using AI for advanced threat detection, I’m driven by the challenge of staying ahead of emerging risks and finding innovative ways to bolster cybersecurity defenses.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -28,7 +28,7 @@
 &lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:contact@cameronmichelis.com&#34;&gt;contact@cameronmichelis.com&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Phone&lt;/strong&gt;: +415-993-3431&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;For matters concerning organizations or agencies I am affiliated with, please use their appropriate official channels.&lt;/p&gt;</description>
+&lt;p&gt;For matters concerning organizations or agencies I am affiliated with, please use their official channels.&lt;/p&gt;</description>
     </item>
     <item>
       <title>API Documentation</title>

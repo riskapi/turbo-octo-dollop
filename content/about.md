@@ -5,24 +5,50 @@ draft: false
 slug: "about"
 ---
 
-## About this Website and it's related endpoints
-
-This website serves as a way for people I’ve met or otherwise connected with over the years to easily find me. It is my personal website and is not affiliated with any other organizations I may be involved with.
-
-Over the years, I have developed personal tools, APIs, and conducted independent research. These resources are shared on a **non-commercial basis**, without any guarantees of service or support, and are provided as-is. If you’re interested in accessing one of my APIs, feel free to [contact me](/contact/) to request an API key.
-
----
-
 ## About Cameron Michelis
 
-As a cybersecurity risk professional, I have a deep interest in understanding and managing the evolving threats and vulnerabilities in today's digital landscape. Over the years, I’ve focused on identifying and addressing security risks, leveraging my background in **mathematics**, **automation**, **artificial intelligence**, and **data science** to help protect critical systems and information.
+As a cybersecurity risk professional, I am deeply invested in understanding and mitigating the ever-evolving threats and vulnerabilities in today’s digital world. With a strong foundation in mathematics, automation, artificial intelligence, and data science, I’ve spent years identifying security risks and developing strategies to protect critical systems and sensitive information.
 
-I’m particularly fascinated by how technology can be used to enhance security practices. From automating processes to harnessing the power of AI for threat detection, I enjoy finding innovative ways to improve cybersecurity measures and stay ahead of emerging risks.
+My passion lies in leveraging cutting-edge technology to enhance security practices. From automating complex processes to using AI for advanced threat detection, I’m driven by the challenge of staying ahead of emerging risks and finding innovative ways to bolster cybersecurity defenses.
 
-When I’m not tackling cybersecurity challenges, I love spending time outdoors. **Backpacking** is one of my favorite ways to disconnect and recharge. I’m also a fan of **software-defined radio (SDR)**, where I explore radio communications through software—a hobby that blends my love for technology with personal exploration.
+Outside of my professional pursuits, I find balance in the outdoors. Backpacking is my go-to way to disconnect, explore nature, and recharge. I also have a passion for software-defined radio (SDR), where I delve into the world of radio communications through software—a perfect blend of technology and personal exploration.
 
-Looking forward to hearing from you!
+I look forward to connecting with you!
 
 ---
+
+## About this Website and it's related endpoints
+
+### General Information
+
+This website is a non-commercial public landing page and serves as a way for people I’ve met or otherwise connected with over the years to easily find me. It is not affiliated with any organizations, companies, or institutions I may be involved with. The information provided on this website is for general informational purposes only and is provided "as-is" without any representations or warranties, express or implied. While I strive to provide accurate and up-to-date information, I make no guarantees regarding the accuracy, completeness, or reliability of the content.
+
+### Personal Tools, APIs, and Independent Research
+
+Over the years, I have developed personal tools, APIs, and conducted independent research. These resources are shared on a non-commercial basis, without any guarantees of service, support, or updates. All tools and APIs are provided "as-is" and I make no warranties or representations regarding their functionality, accuracy, or suitability for any purpose. If you’re interested in accessing one of my APIs, feel free to contact me to request an API key. Use of any APIs or tools shared is at your own risk.
+
+### No Professional Advice
+
+The content and materials provided on this website do not constitute professional advice of any kind (legal, financial, medical, etc.). You should not rely on the information on this website as a substitute for professional consultation. If you require expert advice, please consult an appropriate licensed professional.
+
+### External Links
+
+This website may contain links to third-party websites or resources. These links are provided for convenience and do not imply endorsement or affiliation. I have no control over the content or practices of these external sites, and I am not responsible for any damages or loss resulting from your use of them.
+
+### Personal Views and Opinions
+
+Any views or opinions expressed on this website are solely my own and do not reflect the views of any affiliated organizations or employers. The content is personal and for informational purposes only.
+
+### Limitation of Liability
+
+I am not liable for any damages or loss arising from your use of this website or any resources provided herein, including but not limited to the use of any tools, APIs, or independent research shared. This limitation of liability applies to direct, indirect, incidental, and consequential damages, whether the alleged liability is based on contract, negligence, tort, or any other legal theory.
+
+### Changes to This Disclaimer
+
+I reserve the right to modify this disclaimer at any time. Any changes will be posted on this page, and your continued use of the website constitutes your acceptance of those changes.
+
+---
+
+
 
 
