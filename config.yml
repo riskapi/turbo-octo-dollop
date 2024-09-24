@@ -87,8 +87,8 @@ params:
       url: "https://www.linkedin.com/in/cameronmichelis/"
     - name: github
       url: "https://github.com/cameronmichelis"
-    - name: mastodon
-      url: "https://mastodon.social/@cameronfi"
+#    - name: mastodon
+#      url: "https://mastodon.social/@cameronfi"
 
 #  analytics:
 #    google:
