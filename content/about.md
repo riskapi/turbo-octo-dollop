@@ -11,8 +11,4 @@ My passion lies in leveraging cutting-edge technology to enhance security practi
 
 Outside of my professional pursuits, I find balance in the outdoors. Backpacking is my go-to way to disconnect, explore nature, and recharge. I also have a passion for software-defined radio (SDR), where I delve into the world of radio communications through software—a perfect blend of technology and personal exploration.
 
----
-
-
-
 
