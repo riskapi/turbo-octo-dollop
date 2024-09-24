@@ -6,7 +6,7 @@ draft = false
 
 ### General
 
-This website is a non-commercial public landing page and serves as a way for people I’ve met or otherwise connected with over the years to easily find me. It is not affiliated with any organizations, companies, or institutions I may be involved with. The information provided on this website is for general informational purposes only and is provided "as-is" without any representations or warranties, express or implied. While I strive to provide accurate and up-to-date information, I make no guarantees regarding the accuracy, completeness, or reliability of the content.
+This website is my non-commercial public landing page is not affiliated with any organizations, companies, or institutions I may be involved with. The information provided on this website is for general informational purposes only and is provided "as-is" without any representations or warranties, express or implied. While I strive to provide accurate and up-to-date information, I make no guarantees regarding the accuracy, completeness, or reliability of the content.
 
 ### Personal Tools, APIs, and Independent Research
 
