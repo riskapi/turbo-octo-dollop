@@ -84,7 +84,7 @@ params:
     - name: email
       url: "mailto:contact@cameronmichelis.com"
     - name: linkedin
-      url: "https://www.linkedin.com/in/cameronmichelis/"
+      url: "https://www.linkedin.com/in/cameronmichelis"
     - name: github
       url: "https://github.com/cameronmichelis"
 #    - name: mastodon
