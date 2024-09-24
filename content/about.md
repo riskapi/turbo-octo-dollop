@@ -13,13 +13,11 @@ My passion lies in leveraging cutting-edge technology to enhance security practi
 
 Outside of my professional pursuits, I find balance in the outdoors. Backpacking is my go-to way to disconnect, explore nature, and recharge. I also have a passion for software-defined radio (SDR), where I delve into the world of radio communications through software—a perfect blend of technology and personal exploration.
 
-I look forward to connecting with you!
-
 ---
 
-## About this Website and it's related endpoints
+## Disclaimer
 
-### General Information
+### About this website and related endpoints.
 
 This website is a non-commercial public landing page and serves as a way for people I’ve met or otherwise connected with over the years to easily find me. It is not affiliated with any organizations, companies, or institutions I may be involved with. The information provided on this website is for general informational purposes only and is provided "as-is" without any representations or warranties, express or implied. While I strive to provide accurate and up-to-date information, I make no guarantees regarding the accuracy, completeness, or reliability of the content.
 
