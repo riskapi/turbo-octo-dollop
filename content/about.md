@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: ""
 date: 2024-09-17T12:00:00Z
 draft: false
 slug: "about"
