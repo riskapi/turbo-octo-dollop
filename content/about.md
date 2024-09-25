@@ -5,7 +5,7 @@ draft: false
 slug: "about"
 ---
 
-### About Cameron Michelis
+### About Me
 As a cybersecurity risk professional, I am deeply invested in understanding and mitigating the ever-evolving threats and vulnerabilities in today’s digital world. With a strong foundation in mathematics, automation, artificial intelligence, and data science, I’ve spent years identifying security risks and developing strategies to protect critical systems and sensitive information.
 
 My passion lies in leveraging cutting-edge technology to enhance security practices. From automating complex processes to using AI for advanced threat detection, I’m driven by the challenge of staying ahead of emerging risks and finding innovative ways to bolster cybersecurity defenses.
@@ -13,4 +13,4 @@ My passion lies in leveraging cutting-edge technology to enhance security practi
 Outside of my professional pursuits, I find balance in the outdoors. Backpacking is my go-to way to disconnect, explore nature, and recharge. I also have a passion for software-defined radio (SDR), where I delve into the world of radio communications through software—a perfect blend of technology and personal exploration.
 
 ### About CameronMichelis.com
-This domain is owned by Cameron Michelis and hosts his personal website. All tools, resources and opinions shared through this website are non-commercial, offered "as is", and do not represent any other individual, legal entity, organization, company or institution... [Full Disclaimer]({{< ref "/disclaimer" >}})
+This domain is owned by Cameron Michelis and hosts his personal website. Any tools, resources or opinions shared through this website are non-commercial, offered "as is", and do not represent any other individual, legal entity, organization, company or institution...[Full Disclaimer]({{< ref "/disclaimer" >}})
