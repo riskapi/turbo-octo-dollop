@@ -17,11 +17,12 @@
 &lt;p&gt;This website serves as the personal home page of Cameron Michelis and is not affiliated with any other organization, company, or institution I may be involved with. The information provided on this website is for general informational purposes only and is provided &amp;ldquo;as is,&amp;rdquo; without any representations or warranties, express or implied. While I strive to provide accurate and up-to-date information, I make no guarantees regarding the accuracy, completeness, or reliability of the content.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About Cameron</title>
+      <title></title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;As a cybersecurity risk professional, I am deeply invested in understanding and mitigating the ever-evolving threats and vulnerabilities in today’s digital world. With a strong foundation in mathematics, automation, artificial intelligence, and data science, I’ve spent years identifying security risks and developing strategies to protect critical systems and sensitive information.&lt;/p&gt;
+      <description>&lt;h3 id=&#34;cameron-michelis&#34;&gt;Cameron Michelis&lt;/h3&gt;
+&lt;p&gt;As a cybersecurity risk professional, I am deeply invested in understanding and mitigating the ever-evolving threats and vulnerabilities in today’s digital world. With a strong foundation in mathematics, automation, artificial intelligence, and data science, I’ve spent years identifying security risks and developing strategies to protect critical systems and sensitive information.&lt;/p&gt;
 &lt;p&gt;My passion lies in leveraging cutting-edge technology to enhance security practices. From automating complex processes to using AI for advanced threat detection, I’m driven by the challenge of staying ahead of emerging risks and finding innovative ways to bolster cybersecurity defenses.&lt;/p&gt;</description>
     </item>
     <item>
