@@ -1,27 +1,12 @@
 +++
-title = ""
+title = "Privacy Policy"
 date = 2024-09-24T13:22:48-04:00
 draft = true
 +++
 
-
-### Privacy Policy
-
 #### Introduction
 
 This Privacy Policy outlines how I, Cameron Michelis, collect, use, and protect personal information from anyone interacting with me or my domain, through any protocol or communication method. This includes, but is not limited to, interactions through my website, API access, email communications, direct messaging, and any other form of personal or professional interaction. This policy applies to all personal data shared with me, regardless of how it is collected.
-
-#### Support for Encryption and Secure Communication
-
-I support and encourage the use of **end-to-end encryption** technologies for any communications to enhance privacy and data security. End-to-end encryption ensures that only the sender and recipient can read the content of the messages, and no third party (including service providers) has access.
-
-If you wish to communicate using encrypted methods, feel free to contact me via services that support end-to-end encryption, such as:
-
-- **Signal**: A messaging app that provides secure, end-to-end encrypted communications.
-- **ProtonMail**: For encrypted email communication, you can contact me using ProtonMail or any other email service that supports encryption.
-- **PGP/GPG**: You may request my PGP/GPG public key to encrypt emails sent to me.
-
-Please note that while I take steps to facilitate secure communication, the security of any communication depends on the tools used by both parties. I cannot guarantee complete security if encryption is not used.
 
 #### Information Collection
 
@@ -76,6 +61,18 @@ I will retain personal data only as long as necessary to fulfill the purposes ou
 #### Data Security
 
 I take the security of personal data seriously and implement reasonable measures to protect your information from unauthorized access, disclosure, or loss. However, please note that no method of communication or electronic storage is completely secure, and I cannot guarantee absolute security.
+
+#### Support for Encryption and Secure Communication
+
+I support and encourage the use of **end-to-end encryption** technologies for any communications to enhance privacy and data security. End-to-end encryption ensures that only the sender and recipient can read the content of the messages, and no third party (including service providers) has access.
+
+If you wish to communicate using encrypted methods, feel free to contact me via services that support end-to-end encryption, such as:
+
+- **Signal**: A messaging app that provides secure, end-to-end encrypted communications.
+- **ProtonMail**: For encrypted email communication, you can contact me using ProtonMail or any other email service that supports encryption.
+- **PGP/GPG**: You may request my PGP/GPG public key to encrypt emails sent to me.
+
+Please note that while I take steps to facilitate secure communication, the security of any communication depends on the tools used by both parties. I cannot guarantee complete security if encryption is not used.
 
 #### Your Rights
 
