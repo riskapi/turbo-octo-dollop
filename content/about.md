@@ -13,4 +13,4 @@ My passion lies in leveraging cutting-edge technology to enhance security practi
 Outside of my professional pursuits, I find balance in the outdoors. Backpacking is my go-to way to disconnect, explore nature, and recharge. I also have a passion for software-defined radio (SDR), where I delve into the world of radio communications through software—a perfect blend of technology and personal exploration.
 
 ### About this website and domain
-This domain is owned by Cameron Michelis. Everything shared through this website is non-commercial, offered "as is", and does not represent any other organization, company, institution, individual or legal entity. [Full Disclaimer]({{< ref "/disclaimer" >}})
+This domain is owned by Cameron Michelis. Everything shared through this website is non-commercial, offered "as is", and does not represent any other individual, legal entity, organization, company or institution. [Full Disclaimer]({{< ref "/disclaimer" >}})
