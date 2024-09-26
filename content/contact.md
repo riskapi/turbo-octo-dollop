@@ -1,9 +1,8 @@
----
-title: "Contact"
-date: 2024-09-17T12:00:00Z
-draft: false
-slug: "contact"
----
++++
+title = 'Contact'
+date = 2024-09-26T19:14:31-04:00
+draft = true
++++
 
 
 Feel free to reach out to me for personal communication via any of the channels below.
