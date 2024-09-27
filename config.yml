@@ -15,7 +15,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Cameron Michelis
-  description: "Personal Website | Cybersecurity Risk Professional | Non-Commercial Research & Tools"
+  description: "Cyber | Risk | Automation"
   keywords: [Cameron Michelis, CyberSecurity,Contact]
   author: Me
   # author: ["Me", "You"] # multiple authors
