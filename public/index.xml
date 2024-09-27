@@ -2,19 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cameron Michelis</title>
-    <link>https://www.cameronmichelis.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Cameron Michelis</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
     <lastBuildDate>Tue, 24 Sep 2024 13:22:48 -0400</lastBuildDate>
-    <atom:link href="https://www.cameronmichelis.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Disclaimer</title>
-      <link>https://www.cameronmichelis.com/disclaimer/</link>
+      <link>http://localhost:1313/disclaimer/</link>
       <pubDate>Tue, 24 Sep 2024 13:22:48 -0400</pubDate>
-      <guid>https://www.cameronmichelis.com/disclaimer/</guid>
+      <guid>http://localhost:1313/disclaimer/</guid>
       <description>&lt;h3 id=&#34;general&#34;&gt;General&lt;/h3&gt;
 &lt;p&gt;This website serves as the personal home page of Cameron Michelis and is not affiliated with any other organization, company, or institution I may be involved with. The information provided on this website is for general informational purposes only and is provided &amp;ldquo;as is,&amp;rdquo; without any representations or warranties, express or implied. While I strive to provide accurate and up-to-date information, I make no guarantees regarding the accuracy, completeness, or reliability of the content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;
+&lt;p&gt;As a cybersecurity risk professional, I am deeply invested in understanding and mitigating the ever-evolving threats and vulnerabilities in today’s digital world. With a strong foundation in mathematics, automation, artificial intelligence, and data science, I’ve spent years identifying security risks and developing strategies to protect critical systems and sensitive information.&lt;/p&gt;
+&lt;p&gt;My passion lies in leveraging cutting-edge technology to enhance security practices. From automating complex processes to using AI for advanced threat detection, I’m driven by the challenge of staying ahead of emerging risks and finding innovative ways to bolster cybersecurity defenses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>API Documentation</title>
+      <link>http://localhost:1313/apidocs/</link>
+      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/apidocs/</guid>
+      <description>&lt;p&gt;Welcome to the API documentation for services hosted at &lt;code&gt;api.cameronmichelis.com&lt;/code&gt;. Below are the available API endpoints, their functionality, and the authentication requirements.  If you’re interested in accessing a protected APIs, feel free to &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;contact me&lt;/a&gt; to request an API key.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;public-endpoints-no-authentication-required&#34;&gt;Public Endpoints (No Authentication Required)&lt;/h2&gt;
+&lt;h3 id=&#34;1-get-v1echo&#34;&gt;1. &lt;strong&gt;GET /v1/echo&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://api.cameronmichelis.com/v1/echo&#34;&gt;https://api.cameronmichelis.com/v1/echo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: The Echo service risk scores the request details sent by the client, including the HTTP method, headers, query parameters, and body (if present). This is useful for testing and debugging API requests.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Feel free to reach out to me for personal communication via any of the channels below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:contact@cameronmichelis.com&#34;&gt;contact@cameronmichelis.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone&lt;/strong&gt;: +415-993-3431&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For matters concerning organizations or agencies I am affiliated with, please use their official channels.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

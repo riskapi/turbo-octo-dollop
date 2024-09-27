@@ -1,8 +1,9 @@
-+++
-title = 'Apidocs'
-date = 2024-09-26T19:14:35-04:00
-draft = true
-+++
+---
+title: "API Documentation"
+date: 2024-09-17T12:00:00Z
+draft: false
+slug: "apidocs"
+---
 
 
 Welcome to the API documentation for services hosted at `api.cameronmichelis.com`. Below are the available API endpoints, their functionality, and the authentication requirements.  If you’re interested in accessing a protected APIs, feel free to [contact me](/contact/) to request an API key.
